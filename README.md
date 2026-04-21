@@ -74,8 +74,8 @@ The dataset includes:
 ## 📂 Project Structure
 
 * `data/` → Dataset
-* `sql/` → SQL queries
 * `docs/` → Project explanation
+* `sql/` → SQL queries
 * `presentation/` → Slides
 
 ---
